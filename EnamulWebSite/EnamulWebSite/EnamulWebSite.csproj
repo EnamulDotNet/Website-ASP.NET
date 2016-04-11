@@ -57,6 +57,24 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="css\change.css" />
+    <Content Include="css\styles.css" />
+    <Content Include="img\a17.png" />
+    <Content Include="img\city.JPG" />
+    <Content Include="img\EnamulDotNet.jpg" />
+    <Content Include="img\loading.gif" />
+    <Content Include="img\mutasim.jpg" />
+    <Content Include="img\uni.JPG" />
+    <Content Include="img\uni1.jpg" />
+    <Content Include="js\jquery-1.9.1.min.js" />
+    <Content Include="js\jssor.slider.debug.js" />
+    <Content Include="js\jssor.slider.min.js" />
+    <Content Include="js\jssor.slider.mini.js" />
+    <Content Include="img\03.PNG" />
+    <Content Include="img\02.PNG" />
+    <Content Include="img\04.PNG" />
+    <Content Include="img\01.PNG" />
+    <Content Include="js\jssor.slider.js" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -65,19 +83,10 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="default.aspx" />
-    <Content Include="EnamulStyle.css" />
     <Content Include="index.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="default.aspx.cs">
-      <DependentUpon>default.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="default.aspx.designer.cs">
-      <DependentUpon>default.aspx</DependentUpon>
-    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <PropertyGroup>
