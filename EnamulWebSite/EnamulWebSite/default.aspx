@@ -5,11 +5,12 @@
 <HTML class='ltr no-js rwd item' dir='ltr'>
 <head>
 <!-- Bootstrap -->
+    
 <link href='http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css' rel='stylesheet'/>
 <script src='http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js'></script>
 <script type='text/javascript'>
     function enable_div(div) {
-        for (var i = 1; i = div; i++) {
+        for (var i = 17; i = div; i++) {
             if (i = div) {
                 var link = document.getElementById('a' + i).getAttribute('href');
                 var text = document.getElementById('a' + i).getAttribute('title');
