@@ -59,6 +59,7 @@
   <ItemGroup>
     <Content Include="css\change.css" />
     <Content Include="css\styles.css" />
+    <Content Include="css\StyleSheet1.css" />
     <Content Include="img\a17.png" />
     <Content Include="img\city.JPG" />
     <Content Include="img\EnamulDotNet.jpg" />
