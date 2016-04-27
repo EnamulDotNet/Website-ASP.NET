@@ -89,7 +89,7 @@ SIDE BAR CLASSES
 .side-bar .content ul li a:hover{ text-decoration:none; color:#d13f31;}
 .side-bar .content img{float:left;}
 .side-bar .content .recentPost{ float:right; width:130px; line-height:18px;}
-.side-bar .content .recentPost a{ text-decoration:none; color:#1f7872; float:left; padding-top:20px;}
+.side-bar .content .recentPost a{ text-decoration:none; color:blue; float:left; padding-bottom:10px;}
 .side-bar .content .recentPost a:hover{ color:#d13f31;}
 
 /*-------------------------------------------------
