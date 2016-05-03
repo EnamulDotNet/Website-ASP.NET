@@ -10,3 +10,9 @@ C:\Users\APON\Desktop\Website-ASP.NET\EnamulWebSite\EnamulWebSite\bin\EnamulWebS
 C:\Users\APON\Desktop\Website-ASP.NET\EnamulWebSite\EnamulWebSite\obj\Debug\EnamulWebSite.csprojResolveAssemblyReference.cache
 C:\Users\APON\Desktop\Website-ASP.NET\EnamulWebSite\EnamulWebSite\obj\Debug\EnamulWebSite.dll
 C:\Users\APON\Desktop\Website-ASP.NET\EnamulWebSite\EnamulWebSite\obj\Debug\EnamulWebSite.pdb
+C:\Users\APON\Desktop\MyWebSite\EnamulWebSite\EnamulWebSite\bin\EnamulWebSite.dll.config
+C:\Users\APON\Desktop\MyWebSite\EnamulWebSite\EnamulWebSite\bin\EnamulWebSite.dll
+C:\Users\APON\Desktop\MyWebSite\EnamulWebSite\EnamulWebSite\bin\EnamulWebSite.pdb
+C:\Users\APON\Desktop\MyWebSite\EnamulWebSite\EnamulWebSite\obj\Debug\EnamulWebSite.csprojResolveAssemblyReference.cache
+C:\Users\APON\Desktop\MyWebSite\EnamulWebSite\EnamulWebSite\obj\Debug\EnamulWebSite.dll
+C:\Users\APON\Desktop\MyWebSite\EnamulWebSite\EnamulWebSite\obj\Debug\EnamulWebSite.pdb
