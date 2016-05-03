@@ -60,6 +60,10 @@
     <Content Include="css\change.css" />
     <Content Include="css\styles.css" />
     <Content Include="css\StyleSheet1.css" />
+    <Content Include="img\1.PNG" />
+    <Content Include="img\2.PNG" />
+    <Content Include="img\3.PNG" />
+    <Content Include="img\5.PNG" />
     <Content Include="img\a17.png" />
     <Content Include="img\city.JPG" />
     <Content Include="img\EnamulDotNet.jpg" />
@@ -71,10 +75,6 @@
     <Content Include="js\jssor.slider.debug.js" />
     <Content Include="js\jssor.slider.min.js" />
     <Content Include="js\jssor.slider.mini.js" />
-    <Content Include="img\03.PNG" />
-    <Content Include="img\02.PNG" />
-    <Content Include="img\04.PNG" />
-    <Content Include="img\01.PNG" />
     <Content Include="js\jssor.slider.js" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
